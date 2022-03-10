@@ -1,2 +1,12 @@
-Hi, I’m @Alextsgnv.
-I am interested in the field of machine and deep learning. I train classifiers, regressors and other models. Created a git to post my future projects here.
+ Александр
+27 лет. Образование высшее техническое.
+Стек технологий:
+Язык программирования: Python
+Библиотеки для анализа и визуализации данных: numpy, pandas, matplolib, seaborn, scipy, nltk
+Библиотеки ML и DL: scikit-learn, xgboost, tensowflow
+ML: регрессия, классификация, кластеризация, понижение размерности, ансамблевые алгоритмы, основные метрики.
+DL: Полносвязные, сверхточные и рекуррентные НС.
+Статистика: меры центральной тенденции, центральная предельная теорема, распределения, критерии, А/B тесты, корреляция.
+Математика:  производные, пределы, вероятности, линейная алгебра.
+DevOps: Docker, Django, Hadoop, Hive, Spark.
+Базы данных: SQL (MySQL, PostgressSQL) noSQ
