@@ -6,7 +6,7 @@
 <p>Люблю читать 📚 жанра фентези, играю на 🎸 и в ⚽️.</p>
 
 
-<h4>Моя 💪:</h4>
+<h4>Мои 🛠:</h4>
 <div>
 <img src="https://github.com/Alextsgnv/Alextsgnv/blob/main/images/python.svg" height="32"/> 
 <img src="https://github.com/Alextsgnv/Alextsgnv/blob/main/images/numpy.svg" height="32"/>
@@ -14,6 +14,16 @@
 <img src="https://github.com/Alextsgnv/Alextsgnv/blob/main/images/scikit-learn.svg" height="32"/>
 <img src="https://github.com/Alextsgnv/Alextsgnv/blob/main/images/tensorflow.svg" height="32"/>
 <img src="https://github.com/Alextsgnv/Alextsgnv/blob/main/images/docker.svg" height="32"/> </div>
+</hr>
+</hr>
+<ul>
+  <li>Анализ данных</li>
+  <li>Построение моделей ML</li>
+  <li>Глубокое обучение</li>
+  <li>Создание дашбордов</li>
+  <li>Оценка моделей</li>
+</ul>
+
 
 
 
