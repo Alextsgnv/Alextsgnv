@@ -5,7 +5,7 @@
 <hr> 
 <p>Люблю читать 📚 жанра фентези, играю на 🎸 и в ⚽️.</p>
 <a href="mailto:i@blackcater.dev">
-  <img src="https://github.com/Alextsgnv/Alextsgnv/tree/main/images/social-gmail.svg" height="40" style="max-width: 100%;">
+  <img src="https://github.com/Alextsgnv/Alextsgnv/blob/main/images/social-gmail.svg" height="40" style="max-width: 100%;">
 </a>
 
 <h4>Моя 💪:</h4>
