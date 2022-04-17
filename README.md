@@ -15,9 +15,8 @@
 <img src="https://github.com/Alextsgnv/Alextsgnv/blob/main/images/tensorflow.svg" height="32"/>
 <img src="https://github.com/Alextsgnv/Alextsgnv/blob/main/images/docker.svg" height="32"/> </div>
 </br>
-</br>
 
-<h5>👨‍💻Анализ данных, Построение моделей ML, Глубокое обучение</h5>
+<h4>👨‍💻Анализ данных, Построение моделей ML, Глубокое обучение</h4>
 </br>
 </br>
 
