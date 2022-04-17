@@ -14,11 +14,11 @@
 <img src="https://github.com/Alextsgnv/Alextsgnv/blob/main/images/scikit-learn.svg" height="32"/>
 <img src="https://github.com/Alextsgnv/Alextsgnv/blob/main/images/tensorflow.svg" height="32"/>
 <img src="https://github.com/Alextsgnv/Alextsgnv/blob/main/images/docker.svg" height="32"/> </div>
-</hr>
-</hr>
+</br>
+</br>
 
 
-👨‍💻
+
 <ul>
   <li>Анализ данных</li>
   <li>Построение моделей ML</li>
