@@ -8,19 +8,6 @@
 
 <h4>Моя 💪:</h4>
 <p><svg xmlns="https://github.com/Alextsgnv/Alextsgnv/blob/main/images/python.svg">
-  <defs>
-    <style>
-      svg {
-        background-color: white;
-        color-scheme:light dark;
-      }
-      @media (prefers-color-scheme:dark) {
-        svg {
-          background-color: black;
-        }
-      }
-    </style>
-  </defs>
 </svg>
 </p>
 
