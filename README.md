@@ -20,10 +20,13 @@
 </br>
 </br>
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Alextsgnv&theme=dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Alextsgnv&theme=dracula)
 </br>
 </br>
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alextsgnv&theme=dracula)
+</br>
+</br>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Alextsgnv&theme=dark)](https://git.io/streak-stats)
 </br>
