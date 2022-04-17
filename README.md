@@ -20,11 +20,7 @@
 </br>
 </br>
 
-<a href="mailto:alextsgnv@gmail.com">
-  <img src="https://github.com/Alextsgnv/Alextsgnv/blob/main/images/social-gmail.svg" height="40" style="max-width: 100%;">
-</a>
-</br>
-</br>
+
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Alextsgnv)](https://git.io/streak-stats)
 </br>
@@ -35,3 +31,11 @@
 </br>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alextsgnv)](https://github.com/anuraghazra/github-readme-stats)
+</br>
+</br>
+
+<a href="mailto:alextsgnv@gmail.com">
+  <img src="https://github.com/Alextsgnv/Alextsgnv/blob/main/images/social-gmail.svg" height="40" style="max-width: 100%;">
+</a>
+</br>
+</br>
