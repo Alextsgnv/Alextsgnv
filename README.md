@@ -20,7 +20,7 @@
 </br>
 </br>
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Alextsgnv&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Alextsgnv&theme=dark)
 </br>
 </br>
 
