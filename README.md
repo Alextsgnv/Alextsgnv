@@ -7,11 +7,13 @@
 
 
 <h4>Моя 💪:</h4>
-<img src="https://github.com/Alextsgnv/Alextsgnv/blob/main/images/python.svg" height="32"/> <img src="https://github.com/Alextsgnv/Alextsgnv/blob/main/images/numpy.svg" height="32"/>
+<div>
+<img src="https://github.com/Alextsgnv/Alextsgnv/blob/main/images/python.svg" height="32"/> 
+<img src="https://github.com/Alextsgnv/Alextsgnv/blob/main/images/numpy.svg" height="32"/>
 <img src="https://github.com/Alextsgnv/Alextsgnv/blob/main/images/pandas.svg" height="32"/>
 <img src="https://github.com/Alextsgnv/Alextsgnv/blob/main/images/scikit-learn.svg" height="32"/>
 <img src="https://github.com/Alextsgnv/Alextsgnv/blob/main/images/tensorflow.svg" height="32"/>
-<img src="https://github.com/Alextsgnv/Alextsgnv/blob/main/images/docker.svg" height="32"/>
+<img src="https://github.com/Alextsgnv/Alextsgnv/blob/main/images/docker.svg" height="32"/> </div>
 
 
 
