@@ -7,7 +7,22 @@
 
 
 <h4>Моя 💪:</h4>
-<p><img src="https://github.com/Alextsgnv/Alextsgnv/blob/main/images/python.svg" height="32"/></p>
+<p><svg xmlns="https://github.com/Alextsgnv/Alextsgnv/blob/main/images/python.svg">
+  <defs>
+    <style>
+      svg {
+        background-color: white;
+        color-scheme:light dark;
+      }
+      @media (prefers-color-scheme:dark) {
+        svg {
+          background-color: black;
+        }
+      }
+    </style>
+  </defs>
+</svg>
+</p>
 
 - Библиотеки для анализа и визуализации данных: numpy, pandas, matplolib, seaborn, scipy, nltk
 - Библиотеки ML и DL: scikit-learn, xgboost, tensowflow
