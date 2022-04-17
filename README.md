@@ -29,5 +29,4 @@
   <img src="https://github.com/Alextsgnv/Alextsgnv/blob/main/images/social-gmail.svg" height="40" style="max-width: 100%;">
 </a>
 
-
-<h5 align="center">[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)](https://git.io/streak-stats)</h5>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)](https://git.io/streak-stats)
