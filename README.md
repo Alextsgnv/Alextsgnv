@@ -16,6 +16,9 @@
 <img src="https://github.com/Alextsgnv/Alextsgnv/blob/main/images/docker.svg" height="32"/> </div>
 </hr>
 </hr>
+
+
+👨‍💻
 <ul>
   <li>Анализ данных</li>
   <li>Построение моделей ML</li>
