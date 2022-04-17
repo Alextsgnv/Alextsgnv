@@ -20,11 +20,11 @@
 </br>
 </br>
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Alextsgnv&theme=dracula)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Alextsgnv&theme=monokai)
 </br>
 </br>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alextsgnv&theme=dracula)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alextsgnv&theme=monokai)
 </br>
 </br>
 
