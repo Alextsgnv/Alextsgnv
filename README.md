@@ -1,8 +1,8 @@
 <h1 align="center">Всем привет!! Меня зовут <a href="https://github.com/Alextsgnv" target="_blank">Александр</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
   
-  
-  
+<h3 align="left">Образование: высшее техническое.</h3>
+<hr> 
 Всем привет!! 
 Меня зовут Цыганов Александр мне 27 лет. 
 - Образование высшее техническое.
