@@ -19,11 +19,12 @@
 
 
 <h5>👨‍💻Анализ данных, Построение моделей ML, Глубокое обучение</h5>
+</br>
+</br>
 
 
 
 
-
-<a href="mailto:i@blackcater.dev">
+<a href="mailto:alextsgnv@gmail.com">
   <img src="https://github.com/Alextsgnv/Alextsgnv/blob/main/images/social-gmail.svg" height="40" style="max-width: 100%;">
 </a>
