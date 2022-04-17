@@ -26,11 +26,11 @@
 </br>
 </br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alextsgnv&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alextsgnv&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 </br>
 </br>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alextsgnv)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alextsgnv&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 </br>
 </br>
 
