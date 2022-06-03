@@ -4,6 +4,11 @@
 <h3 align="left">🧑‍🎓: высшее техническое.</h3>
 <hr> 
 <p>Люблю читать 📚 жанра фентези, играю на 🎸 и в ⚽️.</p>
+<a href="https://t.me/Uyhoo">
+  <img src="https://github.com/Alextsgnv/Alextsgnv/blob/main/images/icons8-telegram-app.gif" height="40" style="max-width: 100%;">
+</a>
+</br>
+</br>
 
 
 <h4>Мои 🛠:</h4>
@@ -40,8 +45,4 @@
 </br>
 </br>
 
-<a href="https://t.me/Uyhoo">
-  <img src="https://github.com/Alextsgnv/Alextsgnv/blob/main/images/icons8-telegram-app.gif" height="40" style="max-width: 100%;">
-</a>
-</br>
-</br>
+
