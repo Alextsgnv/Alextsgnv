@@ -41,7 +41,7 @@
 </br>
 
 <a href="https://t.me/Uyhoo">
-  <img src="https://github.com/Alextsgnv/Alextsgnv/blob/main/images/social-gmail.svg" height="40" style="max-width: 100%;">
+  <img src="https://github.com/Alextsgnv/Alextsgnv/blob/main/images/icons8-telegram-app.gif" height="40" style="max-width: 100%;">
 </a>
 </br>
 </br>
